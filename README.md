@@ -1,4 +1,4 @@
-# Category-Cubcategory-Class
+# Category-Subcategory-Class
 <pre>
 CREATE TABLE IF NOT EXISTS `__category` (
   `id` int(7) NOT NULL AUTO_INCREMENT,
